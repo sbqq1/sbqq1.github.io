@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34854241-3f4a-4aef-8f51-19ffd417d0f1" name="Changes" comment="我從 https://github.com/hexschool/bootstrap5-starter-files&#10;參考練習用">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs-javascript/jquery-bs-methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs-javascript/js-init.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs-javascript/js-intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs-javascript/options-methods-events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/accordion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/alerts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/badges.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/breadcrumb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/buttonGroup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/closeButton.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/collapse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/component-javascript-intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/dropdowns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/listGroup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/navsTabs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/offcanvas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/popovers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/progress.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/scrollspy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/spinners.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/toasts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/tooltips.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/figures.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/typography.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/accessibility.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/checksRadios.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/floatingLabels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/formControls.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/inputGroup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/overview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/range.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/cjs/enums.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/cjs/popper-base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/cjs/popper-lite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/cjs/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/createPopper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/contains.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getBoundingClientRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getClippingRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getCompositeRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getComputedStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getDocumentElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getDocumentRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getHTMLElementScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getLayoutRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getNodeName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getNodeScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getOffsetParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getParentNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getScrollParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getViewportRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getWindowScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/getWindowScrollBarX.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/instanceOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/isScrollParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/isTableElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/dom-utils/listScrollParents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/enums.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/modifiers/applyStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/modifiers/arrow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/modifiers/computeStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/modifiers/eventListeners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/modifiers/flip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/modifiers/hide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/modifiers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/modifiers/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/modifiers/popperOffsets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/modifiers/preventOverflow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/popper-base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/popper-lite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/computeAutoPlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/computeOffsets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/debounce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/detectOverflow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/expandToHashMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/format.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/getAltAxis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/getAltLen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/getBasePlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/getFreshSideObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/getMainAxisFromPlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/getOppositePlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/getOppositeVariationPlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/getVariation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/math.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/mergeByName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/mergePaddingObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/orderModifiers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/rectToClientRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/uniqueBy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/validateModifiers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/esm/utils/within.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/umd/enums.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/umd/enums.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/umd/popper-base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/umd/popper-base.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/umd/popper-lite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/umd/popper-lite.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/umd/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/dist/umd/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/createPopper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/contains.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getBoundingClientRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getClippingRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getCompositeRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getComputedStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getDocumentElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getDocumentRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getHTMLElementScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getLayoutRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getNodeName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getNodeScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getOffsetParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getParentNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getScrollParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getViewportRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getWindowScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/getWindowScrollBarX.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/instanceOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/isScrollParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/isTableElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/dom-utils/listScrollParents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/enums.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/modifiers/applyStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/modifiers/arrow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/modifiers/computeStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/modifiers/eventListeners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/modifiers/flip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/modifiers/hide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/modifiers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/modifiers/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/modifiers/popperOffsets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/modifiers/preventOverflow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/popper-base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/popper-lite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/computeAutoPlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/computeOffsets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/debounce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/detectOverflow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/expandToHashMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/format.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/getAltAxis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/getAltLen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/getBasePlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/getFreshSideObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/getMainAxisFromPlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/getOppositePlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/getOppositeVariationPlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/getVariation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/math.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/mergeByName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/mergePaddingObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/orderModifiers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/rectToClientRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/uniqueBy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/validateModifiers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/core/lib/utils/within.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascripts/vendor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/breakpoint.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/container.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/gutter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/practice_column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/practice_danger.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/with_utilities.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheets/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheets/all.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/borders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/clearfix.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/coloredLinks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/display.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/flex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/float.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/interactions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/overflow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/position.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/ratio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/shadows.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/sizing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/spacing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/stretchedLink.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/textTruncation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/verticalAlign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/visibility.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/visuallyHidden.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sbqq1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hexschool/bootstrap5-starter-files.git&quot;,
+    &quot;accountId&quot;: &quot;02b3ea6a-6fd0-4b9f-8596-e0d63a490531&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2r3KZS0A8mVUnYRXKJsYwc9fA3m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/sss/0102",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34854241-3f4a-4aef-8f51-19ffd417d0f1" name="Changes" comment="" />
+      <created>1735782373429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735782373429</updated>
+      <workItem from="1735782374812" duration="416000" />
+      <workItem from="1735782807029" duration="376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="我從 https://github.com/hexschool/bootstrap5-starter-files&#10;參考練習用" />
+    <option name="LAST_COMMIT_MESSAGE" value="我從 https://github.com/hexschool/bootstrap5-starter-files&#10;參考練習用" />
+  </component>
+</project>
